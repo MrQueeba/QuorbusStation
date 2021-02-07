@@ -17,9 +17,9 @@ cfg
 data
 SQL
 node_modules
-tgstation.dmb
+quorbusstation.dmb
 tgstation.int
-tgstation.rsc
+quorbusstation.rsc
 tgstation.lk
 tgstation.dyn.rsc
 *.dll
