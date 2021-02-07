@@ -18,10 +18,10 @@ data
 SQL
 node_modules
 quorbusstation.dmb
-tgstation.int
+quorbusstation.int
 quorbusstation.rsc
 tgstation.lk
-tgstation.dyn.rsc
+quorbusstation.dyn.rsc
 *.dll
 Dockerfile
 tools/bootstrap/.cache
